@@ -1,0 +1,14 @@
+{
+    "name": "learnyounode-repl",
+    "version": "1.0.0",
+    "description": "",
+    "keywords": [],
+    "author": "Dumitru Uzun <contact@duzun.me>",
+    "license": "MIT",
+    "main": "index.js",
+    "dependencies": {
+        "learnyounode": "*",
+        "npm-which": "*",
+        "which": "*"
+    }
+}
